@@ -1,5 +1,5 @@
 title: Renan Maganha
-author: Renan Maganha
+author: "Renan Maganha"
 email: maganha.renan@gmail.com
 description: "A blog about programming, vintage game hardware, and other stuff."
 baseurl: /
@@ -11,6 +11,14 @@ github_username:  maganharenan
 remote_theme: chrisrhymes/bulma-clean-theme@v0.14.0
 plugins:
   - jekyll-feed
+  - jekyll-seo-tag
+  - jekyll-mentions
+
+# Comments
+disqus_shortname: renanmaganha
+
+jekyll-mentions:
+    base_url: https://github.com
 
 paginate: 5
 paginate_path: "/blog/page:num"
