@@ -3,6 +3,8 @@ layout: post
 title:  "Welcome to my Blog!"
 date:   2024-06-23 09:59:26 -0300
 tags: [blogging, about me]
+hero_image: ../assets/img/hero.png
+hero_darken: true
 comments: true
 ---
 Hey there! Welcome to my blog. I have been postponing starting this blog for such a long time, but today I decided to roll up my sleeves and get busy with it.
