@@ -3,7 +3,7 @@ layout: post
 title:  "Welcome to my Blog!"
 date:   2024-06-23 09:59:26 -0300
 tags: [blogging, about me]
-hero_image: /blob/main/assets/img/hero.png
+hero_image: ~/assets/img/hero.jpg
 hero_darken: true
 comments: true
 ---
