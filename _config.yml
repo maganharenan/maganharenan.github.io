@@ -8,7 +8,7 @@ twitter_username:
 github_username:  maganharenan
 
 # Build settings
-remote_theme: chrisrhymes/bulma-clean-theme@v0.14.0
+# remote_theme: chrisrhymes/bulma-clean-theme@v0.14.0
 plugins:
   - jekyll-feed
   - jekyll-seo-tag

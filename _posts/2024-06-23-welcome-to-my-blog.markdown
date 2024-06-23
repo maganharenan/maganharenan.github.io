@@ -19,21 +19,3 @@ Currently my main goal is to create games for the SNES, so my last projects are 
 So, stick around! I’m excited to share my journey with you. Whether you're here for the programming, the art, the music, or anything else, there's something for everyone.
 
 Thanks for stopping by, and see you in the next post!
-
-{% if site.disqus_shortname %}
-    <script type="text/javascript">
-        var disqus_shortname = '{{ site.disqus_shortname }}';
-        (function() {
-            var dsq = document.createElement('script'); dsq.type = 'text/javascript'; dsq.async = true;
-            dsq.src = '//' + disqus_shortname + '.disqus.com/embed.js';
-            (document.getElementsByTagName('head')[0] || document.getElementsByTagName('body')[0]).appendChild(dsq);
-        })();
-        (function () {
-            var s = document.createElement('script'); s.async = true;
-            s.type = 'text/javascript';
-            s.src = '//' + disqus_shortname + '.disqus.com/count.js';
-            (document.getElementsByTagName('HEAD')[0] || document.getElementsByTagName('BODY')[0]).appendChild(s);
-        }());
-    </script>
-    <noscript>Please enable JavaScript to view the <a href="http://disqus.com/?ref_noscript">comments powered by Disqus.</a></noscript>
-{% endif %}
