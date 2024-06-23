@@ -15,7 +15,7 @@ plugins:
   - jekyll-mentions
 
 # Comments
-disqus_shortname: renanmaganha
+disqus_shortname: maganharenan
 
 jekyll-mentions:
     base_url: https://github.com
