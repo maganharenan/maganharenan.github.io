@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: posts
 title:  "Welcome to my Blog!"
 date:   2024-06-23 09:59:26 -0300
 tags: [blogging, about me]
