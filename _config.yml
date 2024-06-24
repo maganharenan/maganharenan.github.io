@@ -15,7 +15,8 @@ plugins:
   - jekyll-mentions
 
 # Comments
-disqus_shortname: maganharenan
+disqus:
+  shortname: maganharenan
 
 jekyll-mentions:
     base_url: https://github.com
