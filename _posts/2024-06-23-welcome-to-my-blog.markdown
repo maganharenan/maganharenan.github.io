@@ -7,6 +7,7 @@ hero_image: /../../../assets/img/hero.jpg
 author: "Renan Maganha"
 hero_darken: true
 comments: true
+published: true
 ---
 Hey there! Welcome to my blog. I have been postponing starting this blog for such a long time, but today I decided to roll up my sleeves and get busy with it.
 
