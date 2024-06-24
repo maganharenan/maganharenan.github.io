@@ -2,7 +2,7 @@
 layout: post
 title:  "Why Programming SNES Games"
 date:   2024-06-24 09:59:26 -0300
-tags: [blogging, about me]
+tags: [blogging, about me, programming, games, retro]
 hero_image: /../../../assets/img/hero-snes.jpg
 author: "Renan Maganha"
 hero_darken: true
@@ -14,7 +14,7 @@ published: true
 <p style="margin: 0;">
 Before diving into the technical aspects of game development, I want to share what inspired me to start creating games for old hardware consoles. Let's take a trip back to the 90s, the decade I was born.
 </p>
-<img src=http://www.trs-80.org/img/frogger-2.png width=150 height=150 style="float: left; margin-right: 20px;">
+<img src="http://www.trs-80.org/img/frogger-2.png" width=150 height=150 style="float: left; margin-right: 20px;">
 <p style="margin: 0;">
 The 90s was such a great decade full of great music, awesome consoles, and fantastic games. As you can imagine, I was exposed to all of this during my early years. 
 
